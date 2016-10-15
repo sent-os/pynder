@@ -66,3 +66,9 @@ Now we we can run the tests::
 
 **ATTENTION** The recored request may contain personal data so remove them
 before committing.
+
+
+Getting Facebook Id
+-------------------
+
+https://gist.github.com/juliojgarciaperez/31ccb391cb1fbcb04dc86a16038fca24
